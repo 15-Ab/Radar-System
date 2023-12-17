@@ -28,11 +28,11 @@ All the necessary documents are uploaded in this repository.
 
 ## Preview 
 
+![caption](iotgif.gif / GIF)
+
 ![Circuit](./Arduino-Radar-Project-Circuit-Diagram.jpg)  
 
 ![Flow](./Arduino-Radar-Project-Flow-Diagram.png)
-
-[](iotgit.gif)
 
 [IoT based Radar System Video](https://drive.google.com/file/d/1rqGPB2suCzLHHxwBhHoQkKM_3F2CGYiG/view?usp=sharing)
 
