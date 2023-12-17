@@ -28,7 +28,7 @@ All the necessary documents are uploaded in this repository.
 
 ## Preview 
 
-![caption](iotgit.gif)
+![gif](iotgit.gif)
 
 ![Circuit](./Arduino-Radar-Project-Circuit-Diagram.jpg)  
 
