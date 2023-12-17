@@ -17,7 +17,8 @@ The modern radar system is very advanced and used in highly diverse applications
 In this project, we are going to design an Arduino radar project using an ultrasonic sensor for detection. An Arduino microcontroller makes electronics more disciplined.
 
 
-## Example of some existing project : https://3ciencias.com/wp-content/uploads/2019/01/Art_14-1.pdf
+## Example of some existing project
+![Resource](https://3ciencias.com/wp-content/uploads/2019/01/Art_14-1.pdf)
 
 ## Documents
 
@@ -28,9 +29,7 @@ In this project, we are going to design an Arduino radar project using an ultras
 ## Preview video
 
 ![IoT based Radar System](./iotgit.mp4)
-![](./iotgit.mp4)
-
-
+![IoT based Radar](https://drive.google.com/file/d/1rqGPB2suCzLHHxwBhHoQkKM_3F2CGYiG/view?usp=sharing)
 
 ## Requirements
 Arduino board
