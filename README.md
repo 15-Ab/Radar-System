@@ -1,6 +1,6 @@
 # IoT based Radar System
 
-This was a project which was completed as a part of our curriculam.
+This was a project which was completed as a part of our curriculum.
 
 Name  of the Project : IoT based Radar System
 
