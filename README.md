@@ -32,6 +32,8 @@ All the necessary documents are uploaded in this repository.
 
 ![Flow](./Arduino-Radar-Project-Flow-Diagram.png)
 
+[](iotgit.gif)
+
 [IoT based Radar System Video](https://drive.google.com/file/d/1rqGPB2suCzLHHxwBhHoQkKM_3F2CGYiG/view?usp=sharing)
 
 ## Requirements
