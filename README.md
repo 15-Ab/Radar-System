@@ -26,9 +26,9 @@ All the necessary documents are uploaded in this repository.
 
 [About](./About.pdf)
 
-[Circuit + Flow](https://drive.google.com/file/d/1bwyKRhug2IViBJzyrhxAgeSRcAn7qniF/view?usp=sharing)
+[Circuit + Flow](./radar circuit + flow.pdf)
 
-[Source Code](https://drive.google.com/file/d/1vmmJjVuiLndiJLNwJyjHSBL9yGu0I20w/view?usp=sharing)
+[Source Code](./Arduino Radar Project _ Source Code.pdf)
 
 ## Preview 
 
