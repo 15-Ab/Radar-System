@@ -30,10 +30,10 @@ All the necessary documents are uploaded in this repository.
 
 [Source Code](https://drive.google.com/file/d/1vmmJjVuiLndiJLNwJyjHSBL9yGu0I20w/view?usp=sharing)
 
-## Preview video
+## Preview 
 
-![IoT based Radar System](./iotgit.mp4)
-[IoT based Radar](https://drive.google.com/file/d/1rqGPB2suCzLHHxwBhHoQkKM_3F2CGYiG/view?usp=sharing)
+![Circuit](./Arduino-Radar-Project-Circuit-Diagram.jpg)
+[IoT based Radar System Video](https://drive.google.com/file/d/1rqGPB2suCzLHHxwBhHoQkKM_3F2CGYiG/view?usp=sharing)
 
 ## Requirements
 Arduino board
