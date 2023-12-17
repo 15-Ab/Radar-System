@@ -18,7 +18,7 @@ In this project, we are going to design an Arduino radar project using an ultras
 
 
 ## Example of some existing project
-![Resource](https://3ciencias.com/wp-content/uploads/2019/01/Art_14-1.pdf)
+[Resource](https://3ciencias.com/wp-content/uploads/2019/01/Art_14-1.pdf)
 
 ## Documents
 
