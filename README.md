@@ -23,6 +23,9 @@ In this project, we are going to design an Arduino radar project using an ultras
 ## Documents
 
 All the necessary documents are uploaded in this repository.
+[About](./About.pdf)
+[Circuit + Flow](./radar circuit + flow.pdf)
+[Source Code](./Arduino Radar Project _ Source Code.pdf)
 
 ## Preview video
 
