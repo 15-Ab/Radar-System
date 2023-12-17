@@ -28,7 +28,8 @@ In this project, we are going to design an Arduino radar project using an ultras
 ## Preview video
 
 ![IoT based Radar System](./iotgit.mp4)
-[![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](./iotgit.mp4)
+![](./iotgit.mp4)
+
 
 
 ## Requirements
